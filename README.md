@@ -9,6 +9,19 @@
 - Building and improving a **prototype model** to achieve better performance and accuracy
 
 ---
+### **Software SKILLS**
+-Proteus professionals
+-Eagle software
+-Autocad 7
+-PSpice-Orcad
+-Matlab
+---
+
+###**Programming Language**
+-C programming 
+-Matlab
+-Python 
+---
 
 ### 🌱 Currently Learning
 - **BSc in Electrical & Electronics Engineering (EEE)**
